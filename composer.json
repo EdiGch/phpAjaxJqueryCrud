@@ -1,0 +1,16 @@
+{
+    "name": "my-local-2018/php-crm",
+    "authors": [
+        {
+            "name": "Grzegorz ",
+            "email": "chgorz@gmail.com"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
